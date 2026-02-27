@@ -88,9 +88,9 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Support Server**: [https://discord.gg/mulifen]
-- **Email**: [macksim9090@yandex.ru]
-- **Discord**: [mulifen]
+- **Support Server**: https://discord.gg/mulifen
+- **Email**: macksim9090@yandex.ru
+- **Discord**: mulifen
 
 ## Compliance
 
@@ -100,3 +100,4 @@ This Bot complies with:
 - Discord Developer Policy
 
 By using the Bot, you agree to this Privacy Policy.
+
