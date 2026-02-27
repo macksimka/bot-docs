@@ -149,9 +149,9 @@ These Terms are governed by applicable international laws and Discord's Terms of
 
 For questions about these Terms:
 
-- **Support Server**: [https://discord.gg/mulifen]
-- **Email**: [macksim9090@yandex.ru]
-- **Discord**: [mulifen]
+- **Support Server**: https://discord.gg/mulifen
+- **Email**: macksim9090@yandex.ru
+- **Discord**: mulifen
 
 ## 15. Severability
 
@@ -164,3 +164,4 @@ These Terms, along with the Privacy Policy, constitute the entire agreement betw
 ---
 
 By using [! Moderator#5604], you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+
